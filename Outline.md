@@ -3,6 +3,7 @@
 ## People
 
 Professor: Radha Gupta
+
 Instructional assistant: Cindy Milley
 
 ## Materials

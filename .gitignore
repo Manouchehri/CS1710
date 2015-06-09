@@ -1,0 +1,14 @@
+# vim swap files
+*.swp
+
+# Contains personal information, do not include.
+/STUDENT.txt
+
+# Ignore any binaries that might get stuck in here.
+*.class
+*.jar
+*.zip
+
+# Do not include any property of Memorial University
+*.pdf
+*.ppt

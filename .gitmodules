@@ -10,3 +10,6 @@
 [submodule "Assignment4"]
 	path = Assignment4
 	url = https://github.com/Manouchehri/CS1710-Assignment4
+[submodule "Assignment5"]
+	path = Assignment5
+	url = https://github.com/Manouchehri/CS1710-Assignment5
